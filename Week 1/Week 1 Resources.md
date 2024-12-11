@@ -47,8 +47,8 @@ Transitioning to neural networks, prioritize understanding neural network archit
 
 **RESOURCES**
 
-- [**Coursera course (Neural Networks and Deep Learning)**](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (Complete this course by the end of the week 1. You do not have to buy the course, you can audit the course for free)
-- [3Blue1Brown 4 video Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pGHVPQ58rTgYkYgM) (_Good Video for Visualisation_)
+- [**Coursera course (Neural Networks and Deep Learning)**](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (Complete this course by the end of the week 1. You do not have to buy the course, you can audit the course for free. If you want the assignments and certificates, apply for financial aid and you will get access after 15 days)
+- [3Blue1Brown (only 4 video required for now) Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pGHVPQ58rTgYkYgM) (_Good Video for Visualisation_)
 
 **_Expected time to complete_** : 3-4 days
 
@@ -60,7 +60,7 @@ Again, you don't have to dive deeper into this module, just falmiliarize yoursel
 
 Feel free to use tensorflow or keras if you are already comfortable with that.
 
-**_Expected time to complete_** : 1 hour
+**_Expected time to complete_** : 1 day
 
 **RESOURCES**
 
