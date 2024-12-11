@@ -1,5 +1,7 @@
 # PDFQueryBot - CHATBOT Over PDF using RAG
 
+<img src = "https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Chatbot%20over%20PDf%E2%80%99s%20(1).png">
+
 ## About the project
 
 The project will aim on implementing a basic Question-Answering Chatbot for external PDFs using Retrieval Augmented Generation on a pre-trained Language Model. Throughout this project, mentees will dive into Python libraries such as Numpy, Pandas, and PyTorch, while exploring deep learning concepts such as Neural Networks, RNNs, and State-of-the-Art Transformers. 
