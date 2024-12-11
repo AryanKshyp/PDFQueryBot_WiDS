@@ -25,3 +25,5 @@ _Feel free to contact me or discuss among yourselves about the project._
 
 # Resources
 (_All the contents will be posted in this repo only_)
+
+Week 1 - [Resources](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Week%201/Week%201%20Resources.md)
