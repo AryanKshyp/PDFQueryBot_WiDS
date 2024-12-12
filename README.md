@@ -1,6 +1,6 @@
-# PDFQueryBot - CHATBOT Over PDF using RAG
-
 <img src = "https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Chatbot%20over%20PDf%E2%80%99s%20(1).png">
+
+# PDFQueryBot - CHATBOT Over PDF using RAG
 
 ## About the project
 
