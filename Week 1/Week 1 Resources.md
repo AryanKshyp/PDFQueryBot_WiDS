@@ -3,7 +3,10 @@
 ### Python Refresher 
 
 Here are some basic and popular Python resources for you to get started or brush up on the syntax of Python, you may skip them if you know the basics of Python coding
+
+
  **RESOURCES**
+ 
  - [**Video Turtorial**](https://www.youtube.com/watch?v=kqtD5dpn9C8)
  - [**15 min Python Refresher**](https://www.youtube.com/watch?v=fWjsdhR3z3c)
 
