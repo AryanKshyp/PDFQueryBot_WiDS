@@ -21,7 +21,7 @@ _Feel free to contact me or discuss among yourselves about the project._
 > Leverage ChatGPT, Documentations, Youtube and other resources to their fullest. 
 
 
-## Skills and Libraries mentess will learn!!
+## Skills and Libraries mentees will learn!!
 
 **Numpy, Pandas, Neural Network, Pytorch, Natural Language Processing, RNN, Transformers, RAG, Langchain.**
 
