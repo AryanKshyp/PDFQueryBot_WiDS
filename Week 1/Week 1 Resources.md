@@ -9,6 +9,7 @@ Here are some basic and popular Python resources for you to get started or brush
 
 
 ### Essential Python Libraries 
+
 Starting with essential Python libraries, such as NumPy and Pandas, is crucial. Mastering these before delving into deep learning is vital for foundational skills in data manipulation and numerical operations. Pandas and NumPy play a key role in efficient dataset handling, preprocessing, and seamless integration with deep learning frameworks. Additionally, Matplotlib is a valuable tool for data visualization in this context.
 You can use either some or all of the resources to learn.
 
@@ -33,7 +34,7 @@ You can use either some or all of the resources to learn.
 
  - [**Video Turtorial**](https://youtu.be/vmEHCJofslg?si=tvrvb2TOwHRnmDpf)
  - [**Documentation**](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
- - [**W3schools**](https://www.w3schools.com/python/pandas/default.asp) (_Recommended_)
+ - [**W3schools**](https://www.w3schools.com/python/pandas/default.asp) 
 
  **_Expected time to complete_** : 1-2 hours
 
