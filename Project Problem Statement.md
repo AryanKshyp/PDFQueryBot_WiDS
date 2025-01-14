@@ -16,6 +16,7 @@ Use [**UG Rulebook**](https://www.iitb.ac.in/newacadhome/ugrulebook.pdf) to test
 - Searching and passing the context to the prompt
 - Custom prompt passing to the model and processing the output
 - Displaying output using UI
+- Optional: Evaluate how the LLM is doing and identify quantifiable metrics for that
 
 ## Deliverables
 No need to make a very complex chatbot. 
@@ -23,6 +24,7 @@ No need to make a very complex chatbot.
 - The code should have a basic UI either in Streamlit/Gradio or just a python one.
 
 ## Resources 
+
 - **GOOGLE**
 - Youtube
 - Chatgpt too, but sadly that will not be much of a help in case of langchain issues.
