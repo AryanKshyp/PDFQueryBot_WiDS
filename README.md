@@ -34,4 +34,6 @@ Week 2 - [Resources](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/We
 
 Week 3 - [Resources](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Week%203/Resources.md)  |  [Assignment](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Week%203/Assignment%202.md)
 
-Week 4 - [Resources](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Week%204/Resources.md)
+Week 4 - [Resources](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Week%204/Resources.md)  |  [Optional Assignment](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Week%204/Assignment%203(Optional).md)
+
+Project - [Problem Statement](https://github.com/AryanKshyp/PDFQueryBot_WiDS/blob/main/Project%20Problem%20Statement.md)
